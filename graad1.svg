@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="250.99998"
-   height="49"
-   viewBox="0 0 66.410668 12.96458"
+   width="158.23265"
+   height="30.801979"
+   viewBox="0 0 41.865919 8.1496907"
    version="1.1"
    id="svg5116"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6296875"
-     inkscape:cx="137.47363"
-     inkscape:cy="-3.7245503"
+     inkscape:cx="25.047161"
+     inkscape:cy="-5.1848935"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,17 +57,31 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-33.356792,-116.8205)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.57480335px;line-height:1.25;font-family:Orbitron;-inkscape-font-specification:Orbitron;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17079847"
-       x="37.669426"
-       y="128.73111"
-       id="text1147"><tspan
-         sodipodi:role="line"
-         id="tspan1145"
-         x="37.669426"
-         y="128.73111"
-         style="stroke-width:0.17079847">ГРААД</tspan></text>
+     transform="translate(-4.8954781,-121.24897)">
+    <g
+       aria-label="ГРААД"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58411217px;line-height:1.25;font-family:Orbitron;-inkscape-font-specification:Orbitron;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12403254"
+       id="text1147">
+      <path
+         d="m 5.3825367,121.61575 h 6.9537613 v 0.85732 H 6.2398498 v 6.76324 H 5.3825367 Z"
+         style="stroke-width:0.12403254"
+         id="path5803" />
+      <path
+         d="m 13.299948,121.62634 h 6.350468 q 0.529205,0 0.899649,0.37044 0.370444,0.37044 0.370444,0.89965 v 2.23325 q 0,0.5292 -0.370444,0.89965 -0.370444,0.37044 -0.899649,0.37044 h -5.080374 q -0.09526,0 -0.41278,-0.0423 v 2.87888 h -0.857314 z m 6.763248,3.50334 v -2.23325 q 0,-0.16935 -0.127009,-0.28577 -0.116425,-0.12701 -0.285771,-0.12701 h -5.080374 q -0.169346,0 -0.296355,0.12701 -0.116425,0.11642 -0.116425,0.28577 v 2.23325 q 0,0.16934 0.116425,0.28577 0.127009,0.11642 0.296355,0.11642 h 5.080374 q 0.169346,0 0.285771,-0.11642 0.127009,-0.11643 0.127009,-0.28577 z"
+         style="stroke-width:0.12403254"
+         id="path5805" />
+      <path
+         d="m 23.169632,121.61575 h 5.080374 q 0.529206,0 0.89965,0.37045 0.370444,0.37044 0.370444,0.89965 v 6.35046 h -0.857314 v -2.78362 h -5.905934 v 2.78362 h -0.857313 v -6.35046 q 0,-0.52921 0.370444,-0.89965 0.370444,-0.37045 0.899649,-0.37045 z m -0.41278,3.97963 h 5.905934 v -2.70953 q 0,-0.16935 -0.127009,-0.28578 -0.116425,-0.127 -0.285771,-0.127 h -5.080374 q -0.169346,0 -0.296355,0.127 -0.116425,0.11643 -0.116425,0.28578 z"
+         style="stroke-width:0.12403254"
+         id="path5807" />
+      <path
+         d="m 31.769224,121.61575 h 5.080374 q 0.529206,0 0.89965,0.37045 0.370444,0.37044 0.370444,0.89965 v 6.35046 h -0.857313 v -2.78362 h -5.905935 v 2.78362 h -0.857313 v -6.35046 q 0,-0.52921 0.370444,-0.89965 0.370444,-0.37045 0.899649,-0.37045 z m -0.41278,3.97963 h 5.905935 v -2.70953 q 0,-0.16935 -0.12701,-0.28578 -0.116425,-0.127 -0.285771,-0.127 h -5.080374 q -0.169345,0 -0.296355,0.127 -0.116425,0.11643 -0.116425,0.28578 z"
+         style="stroke-width:0.12403254"
+         id="path5809" />
+      <path
+         d="m 42.083443,121.61575 h 3.778528 v 5.90594 h 0.857313 v 1.71462 H 45.861971 V 128.379 h -5.905935 v 0.85731 h -0.857313 v -1.71462 h 0.857313 l 0.857313,-4.63584 q 0.105842,-0.52921 0.423365,-0.89965 0.317523,-0.37045 0.846729,-0.37045 z m -1.270094,5.90594 h 4.191309 v -5.04862 h -2.921215 q -0.169346,0 -0.275187,0.127 -0.105841,0.11643 -0.137594,0.28578 z"
+         style="stroke-width:0.12403254"
+         id="path5811" />
+    </g>
   </g>
 </svg>
